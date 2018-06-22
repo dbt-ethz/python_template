@@ -4,8 +4,8 @@
 
 .. start-badges
 
-.. image:: https://avatars3.githubusercontent.com/u/32545728?s=200&v=4
-    :target: http://gramaziokohler.arch.ethz.ch/web/e/forschung/index.html
+.. image:: http://dbt.arch.ethz.ch/wp-content/uploads/2017/11/dbtPure.png
+    :target: http://dbt.arch.ethz.ch
     :alt: title
 
 .. end-badges

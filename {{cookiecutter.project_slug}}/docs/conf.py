@@ -23,15 +23,15 @@ source_suffix = '.rst'
 master_doc = 'index'
 project = '{{cookiecutter.project_slug}}'
 year = '2018'
-author = 'Gramazio Kohler Research'
+author = 'Digital Building Technologies'
 copyright = '{0}, {1}'.format(year, author)
 version = release = '0.1.0'
 
 pygments_style = 'trac'  # Perhaps change to sphinx
 templates_path = ['.']
 extlinks = {
-    'issue': ('https://github.com/gramaziokohler/{{cookiecutter.project_slug}}/issues/%s', '#'),
-    'pr': ('https://github.com/gramaziokohler/{{cookiecutter.project_slug}}/pull/%s', 'PR #'),
+    'issue': ('https://github.com/dbt-ethz/{{cookiecutter.project_slug}}/issues/%s', '#'),
+    'pr': ('https://github.com/dbt-ethz/{{cookiecutter.project_slug}}/pull/%s', 'PR #'),
 }
 # on_rtd is whether we are on readthedocs.org
 on_rtd = os.environ.get('READTHEDOCS', None) == 'True'

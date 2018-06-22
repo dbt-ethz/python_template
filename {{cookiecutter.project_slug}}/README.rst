@@ -4,8 +4,8 @@
 
 .. start-badges
 
-.. image:: https://avatars3.githubusercontent.com/u/32545728?s=200&v=4
-    :target: http://gramaziokohler.arch.ethz.ch/web/e/forschung/index.html
+.. image:: http://dbt.arch.ethz.ch/wp-content/uploads/2017/11/dbtPure.png
+    :target: http://dbt.arch.ethz.ch
     :alt: title
 
 .. end-badges
@@ -50,7 +50,7 @@ Contributing
 
 Make sure you setup your local development environment correctly:
 
-* Clone the `{{cookiecutter.project_slug}} <https://github.com/gramaziokohler/{{cookiecutter.project_slug}}>`_ repository.
+* Clone the `{{cookiecutter.project_slug}} <https://github.com/dbt-ethz/{{cookiecutter.project_slug}}>`_ repository.
 * Install development dependencies and make the project accessible from Rhino:
 
 ::
@@ -85,4 +85,4 @@ Releasing this project
 Credits
 -------------
 
-This package was created by {{ cookiecutter.full_name }} <{{ cookiecutter.email }}> `@{{ cookiecutter.github_username }} <https://github.com/{{ cookiecutter.github_username }}>`_ at Gramazio Kohler Research `@gramaziokohler <https://github.com/gramaziokohler>`_
+This package was created by {{ cookiecutter.full_name }} <{{ cookiecutter.email }}> `@{{ cookiecutter.github_username }} <https://github.com/{{ cookiecutter.github_username }}>`_ at Digital Building Technologies `@dbt-ethz <https://github.com/dbt-ethz>`_

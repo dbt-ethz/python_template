@@ -31,9 +31,9 @@ This project automates the set up of a new python-based project using a Cookiecu
 
 ## Requirements
 
-Install `Git SCM` from https://git-scm.com/
-
-Install `cookiecutter` command line: `pip install cookiecutter`
+* Install `Git SCM` from https://git-scm.com/
+* Install `cookiecutter` command line: `pip install cookiecutter`
+* See alternative installation options (e.g. anaconda) here: http://cookiecutter.readthedocs.io/en/latest/installation.html
 
 ## Usage
 
@@ -44,7 +44,7 @@ $ cd <your-projects-folder>
 
 Generate a new Cookiecutter template layout:
 ```
-$ cookiecutter gh:gramaziokohler/python_template
+$ cookiecutter gh:dbt-ethz/python_template
 ```
 
 Go to project folder:

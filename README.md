@@ -2,6 +2,8 @@
 
 This project automates the set up of a new python-based project using a Cookiecutter template.
 
+Original by Gramazio Kohler Research: https://github.com/gramaziokohler/python_template
+
 [Cookiecutter](https://cookiecutter.readthedocs.io/en/latest/readme.html#) is a command-line utility that lets you quickly bootstrap a new project from a template. It takes a directory tree and copies it into your new project, replacing all the generic info that finds surrounded by templating tags `{{` and `}}` with your project info written in `cookiecutter.json`.
 
 ## Features
